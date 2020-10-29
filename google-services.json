@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "936004673841",
+    "firebase_url": "https://expenseless1.firebaseio.com",
+    "project_id": "expenseless1",
+    "storage_bucket": "expenseless1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936004673841:android:64ce4f74a3fdcc16411010",
+        "android_client_info": {
+          "package_name": "com.expenseless"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936004673841-sm6gpgc1smin7ar47a62ftjgc2nkh4k2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9z_7BPEvsigKx5-Nu92D5TV-XMGAePoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936004673841-sm6gpgc1smin7ar47a62ftjgc2nkh4k2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
